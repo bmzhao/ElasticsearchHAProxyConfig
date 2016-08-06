@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 31536000
+Content-Length: 0
+Cache-Control: private
+
